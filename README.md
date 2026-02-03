@@ -8,7 +8,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**A comprehensive web-based student management solution for educational institutions**
+**A comprehensive web-based student management solution for educational institutions** <br> <br>
+**🚀🟢Live Website at : https://student.heraldcollege.edu.np/~np03cs4s250093/StudentManagementSystem/public** <br> <br>
 
 [Features](#-features) • [Installation](#-installation--setup) • [Usage](#-usage) • [Documentation](#-documentation) • [Contributing](#-contributing)
 
